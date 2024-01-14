@@ -5,6 +5,9 @@
   <br>
   <br>
   <img src="https://visitcount.itsvg.in/api?id=royalnavghan&icon=0&color=0">
+<p align="start">
+  <img src="https://profile-counter.glitch.me/{royalnavghan}/count.svg" alt="Visitor Count" width="180" height="24" />
+</p>
 
 </p>
 
